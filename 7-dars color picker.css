@@ -1,0 +1,28 @@
+.color-picker {
+  border: 0px solid red;
+  background-color:#F3ECEA;color:#000;
+  padding-top:78px;
+  padding-bottom:95px;
+  text-align: center;
+}
+
+
+.color-picker h1{
+  font-size:65px;
+  font-weight:700;
+}
+
+.color-picker h4 {
+  margin-top:25px;
+}
+
+.color-picker a:hover{
+  opacity: 0.8;
+}
+
+.color-picker img{
+  width:150px;
+  height:128px;
+  margin-top:16px;
+  cursor: pointer;
+}

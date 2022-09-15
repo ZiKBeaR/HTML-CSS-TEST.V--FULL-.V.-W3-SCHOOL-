@@ -1,0 +1,91 @@
+.blocks-bckg {
+  border: 0px solid red;
+  background-color: #282A35;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+
+.big-blocks {
+  border: 0px solid red;
+  justify-content: center;
+  padding: 64px 0; 
+  display: grid;
+  grid-gap: 50px 80px;
+  grid-template-areas: 'a a';  
+}
+
+.php-block {
+  border: 0px solid green;
+  background-color: #FFC0C7;
+  color: black;
+}
+.jQuery-block {
+  border: 0px solid green;
+  background-color: #FFF4A3;
+  color: black;
+}
+.Java-block {
+  border: 0px solid green;
+  color: black;
+  background-color: #F3ECEA;
+}
+.Cpp-block {
+  border: 0px solid green;
+  color: black;
+    background-color: #D9EEE1;
+}
+.W3css-block {
+  border: 0px solid green;
+  color: black;
+  background-color: #96D4D4;
+}
+.bootstrap-block {
+  border: 0px solid green;
+  color: black;
+  background-color: #E7E9EB;
+}
+
+.big-blocks div{
+  border: 0px solid green;
+  padding: 24px;
+  color: black;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+  border-radius: 5px;
+  height: 260px;
+  width: 600px;
+}
+
+.big-blocks h2 {
+  font-size: 45px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+.big-blocks h5 {
+  color: #3a3a3a;
+  font-weight: 400;
+  margin: 20px 0;    
+  line-height: 1.5;
+  font-size: 18px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.big-blocks button { 
+  background-color: #282A35;
+  color: white;
+  font-size: larger;
+  font-weight: 600;
+  border: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.big-blocks button:hover {
+  background-color: black;
+}

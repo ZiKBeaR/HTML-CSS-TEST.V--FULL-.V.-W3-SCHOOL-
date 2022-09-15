@@ -1,0 +1,159 @@
+.gift-box {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.gift {
+border: 0px solid green;
+padding: 30px 3px 85px 3px;
+text-align: center;
+max-width: 980px;
+padding-top: 78px;
+padding-bottom: 125px;
+padding: 8px 16px;
+justify-content: center;
+align-items: center;
+margin-bottom: 80px;
+}
+
+.gift h1 {
+  font-size: 65px;
+  font-weight: 700;
+}
+
+.gift h4 {
+  margin-top: 25px;
+  font-size: 20px;
+  margin: 10px 0;
+  margin-bottom: 50px;
+}
+
+.gift-head {
+  padding: 10px;
+    background: #f1f1f1;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    display: block; 
+
+}
+
+.gift-ryg {
+  margin-left: -100px;
+}
+
+.codeeditorbr-dot {
+  margin-top: 5px;
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 3px;
+}
+
+.codeeditorbr-input {
+  width: 60%;
+  border-radius: 3px;
+  border: none;
+  background-color: white;
+  margin-top: -8px;
+  height: 22px;
+  color: #666;
+  font-size: 14px;
+  padding: 5px;
+  margin-left: 100px;
+}
+
+.gift-frontandback {
+  background-color: #f1f1f1;
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: -10px;
+  margin-left: -10px;
+}
+
+.ws-grey {
+  color: black;
+  padding: 8px 16px;
+  float: left;
+  border: none;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  cursor: pointer;
+  background-color: #E7E9EB;
+  text-align: center;
+}
+
+.ws-grey-backend {
+  color: black;
+  padding: 8px 16px;
+  float: left;
+  border: none;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  cursor: pointer;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+.ws-grey-backend:hover{
+  background-color: #E7E9EB;
+}
+
+
+.proglang img {
+  width:100%;
+  height:auto;
+  display:block;
+  border-bottom-left-radius:4px;
+  border-bottom-right-radius:4px;
+}
+
+.btns-yel-green {
+  border: 0px solid  black;
+  text-align: left;
+}
+
+.green-btn{
+font-size:18px;
+text-align:left;
+font-family: 'Source Sans Pro', sans-serif;
+font-weight:bold;
+border: none;
+border-radius: 5px;
+display: inline-block;
+padding: 8px 16px;
+text-decoration: none;
+text-align: center;
+cursor: pointer;
+background-color: #04AA6D;
+color: #ffffff;
+}
+
+.green-btn:hover{
+  background-color: #059862;
+  color: #ffffff;
+}
+
+.btn-yellow{
+  background-color: #FFF4A3;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:18px;
+  font-weight: bold;
+  text-align:left;
+  border: none;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;  
+}
+.btn-yellow:hover {
+  background-color: #fff080;
+  color: black;
+}

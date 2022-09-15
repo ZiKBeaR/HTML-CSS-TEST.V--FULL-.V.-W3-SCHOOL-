@@ -1,0 +1,46 @@
+.web-templates {
+  border: 0px solid red;
+  padding:64px 24px 90px 24px;
+  background-color: #E7E9EB;
+  color: black;
+  text-align: center;
+  display: block;
+  box-sizing: inherit; 
+}
+
+.web-templates h2 {
+  font-size:45px;
+  font-weight:700;
+  margin: 10px 0;
+}
+
+.web-templates h4{
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.web-window-img{
+  max-width: 980px; 
+  display: inline-block;
+}
+
+.web-window-img a{
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.web-window-img img{
+  width: 100%;
+  margin: 16px 0 20px 0;
+}
+
+.web-templates-btn {
+  width: 50%;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  
+}
+
+.web-templates-btn:hover{
+  background-color: black;
+}

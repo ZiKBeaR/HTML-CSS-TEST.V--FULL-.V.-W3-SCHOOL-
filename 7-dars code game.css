@@ -1,0 +1,34 @@
+.code-game{
+  border: 0px solid red;
+  padding-top:40px;
+  padding-bottom:40px;
+  background-color: #96D4D4;
+  color: black;
+}
+
+.code-game h1{
+  font-family: 'Freckle Face', cursive;
+  font-size:48px;
+}
+
+.code-game h2{
+  font-family: 'Freckle Face', cursive;
+}
+
+.black-color{
+  background-color: #282A35;
+    color: white;
+}
+
+.code-game .tut-button:hover{
+  background-color: black;
+}
+
+.code-game img{
+  margin:16px 0;
+  cursor: pointer;
+}
+
+.code-game img:hover{
+  opacity: 0.8;
+}

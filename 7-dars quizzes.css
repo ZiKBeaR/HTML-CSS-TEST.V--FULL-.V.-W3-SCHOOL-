@@ -1,0 +1,86 @@
+.quizzes{
+  border: 0px solid red;
+  padding-bottom:80px;
+  color:white;
+  background: #282A35 url(https://www.w3schools.com/about/w3codes.png) no-repeat fixed center;
+  background-size: cover;
+  display: flex;
+  padding-top: 64px;
+  box-sizing: inherit;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quizzes h2{
+  font-size:45px;
+  font-weight:700;
+  margin: 10px 0;
+}
+
+.quizzes h4{
+  margin: 10px 0;
+}
+
+.quizzes-btn {
+  border: 0px solid black;
+  max-width: 1352px;
+  padding: 0 8px;
+  box-sizing: inherit;
+  display: flex;
+  padding-bottom: 80px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.w3-half{
+  float: left;
+  display: block;
+}
+
+.quizzes p{
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.quizzes a{
+  padding: 70px 50px;
+  font-size: 35px;
+  width: 87%;
+  opacity: 0.97;
+  border-radius: 5px;
+  border: none;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  width: 410px;
+  height: 193px;
+}
+
+.w3-button-green{
+  background-color: #04AA6D;
+  color: white;
+}
+
+.w3-button-green:hover{
+  background-color: #059862;
+    color: white;
+}
+
+.w3-button-yellow{
+  background-color: #FFF4A3;
+  color: black;
+}
+
+.w3-button-yellow:hover{
+  background-color: #fff080;
+  color: black;
+}

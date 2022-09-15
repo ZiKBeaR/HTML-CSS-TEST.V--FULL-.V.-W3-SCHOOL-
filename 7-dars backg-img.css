@@ -1,0 +1,49 @@
+.Backg-img{
+  border: 0px solid red;
+  background: #282A35 url(https://www.w3schools.com/spaces/files/priscilla-du-preez-XkKCui44iM0-unsplash.921aa0c0.jpg) no-repeat fixed center;
+  background-size: cover;
+  color: white;
+}
+
+.backg-text{
+  background-color:#282A35;
+  opacity:0.96;
+  margin:auto;
+  padding:85px 20px;
+}
+
+.Backg-img h1{
+  font-size:65px;
+  font-weight:700;
+}
+
+.Backg-img h3{
+  margin-top:35px;
+}
+
+.tut-button {
+  margin-top:15px;
+  margin-bottom:18px;
+  font-size:22px;
+  width:300px;
+  padding: 11px 18px;
+  background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 200px;
+    border-radius: 25px;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+}
+.tut-button:hover{
+  background-color: #059862;
+  color: white;
+}
+
+.small-img{
+  max-width:100%;
+  margin:auto;
+}

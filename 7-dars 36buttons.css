@@ -1,0 +1,99 @@
+.buttons-36 {
+  border: 0px solid black;
+  display: grid;
+  grid-template-areas: 'a a b b'
+  '. . . .'
+  '. . . .'
+  '. . . .'
+  '. . . .'
+  '. . . .'
+  '. . . .'
+  '. . . .'
+  'x x z z'
+  'q q w w'
+  's s d d';
+  grid-gap: 50px 80px;
+  justify-content: center;
+  padding-bottom: 64px;
+  text-align: center;
+  padding: 2% 3%;
+}
+
+.buttons-36 h2{
+  font-size: 30px;
+  margin: 10px 0;
+}
+
+.buttons-36 div{
+  border: 0px solid green;
+  opacity: 0.9;
+  height: auto;
+  text-align: center;
+  color: black;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+  cursor: pointer;
+  padding: 24px;
+}
+
+.buttons-36 div:hover{
+  opacity: 1;
+}
+
+.btn-a {
+  grid-area: a;
+  padding: 36px 24px;
+  background-color: #FFC0C7;
+  width: 600px;
+}
+.btn-b{ 
+  grid-area: b;
+  padding: 36px 24px;
+  background-color: #FFF4A3;
+  width: 600px;
+}
+
+.btn-R{
+  background-color: #F3ECEA;
+}
+.btn-K{
+  background-color: #D9EEE1;
+}
+
+.btn-N {
+  background-color: #96D4D4;
+}
+
+.btn-React {
+  background-color: #FFC0C7;
+}
+
+.btn-J {
+  background-color: #FFF4A3;
+}
+
+.btn-x {
+  grid-area: x;
+  background-color: #96D4D4;
+}
+.btn-z {
+  grid-area: z;
+  background-color: #FFF4A3;
+}
+
+.btn-q {
+  grid-area: q;
+  background-color: #FFC0C7;
+}
+.btn-w {
+  grid-area: w;
+  background-color: #F3ECEA;
+}
+.btn-s {
+  grid-area: s;
+  background-color: #F3ECEA;
+}
+.btn-d {
+  grid-area: d;
+  background-color:  #D9EEE1;
+}
